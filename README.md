@@ -1,16 +1,30 @@
-### Hi there 👋
+# 💻 Open Source code by Matteo Lissandrini, PhD 
 
-<!--
-**kuzeko/kuzeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Research Topics:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Matteo is currently researching on [Example Driven Analytics of Open Knowledge Graphs](https://edao.eu/).
+
+He has been researching on [Exploratory Methods for Data Analytics](http://people.cs.aau.dk/~matteo/notes/book-example-exploration.html), 
+and in particular on [Exemplar Queries](http://people.cs.aau.dk/~matteo/exemplar.html).
+
+His research interests include also data mining, especially on knowledge graphs, analysis of user generated content from the social media, and advanced models for event detection and profiling.
+
+
+**Here you will find code about:**
+
+- [Knowledge Graph Search](https://github.com/mutandon/ExemplarQueries)
+- [Graph Databases](https://github.com/kuzeko/graph-databases-testsuite)
+
+
+
+
+## 📓 Bio:
+       
+>  Matteo Lissandrini is a Marie Sklodowska Curie IF fellow and 
+>  [postdoctoral researcher in the Department of Computer Science at Aalborg University](http://people.cs.aau.dk/~matteo/).
+>
+>  Matteo received his PhD  from [the University of Trento](https://www.unitn.it/) (Italy) 
+>  with a thesis on [exploratory search for information graphs](http://people.cs.aau.dk/~matteo/exemplar.html).
+
+
