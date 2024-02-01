@@ -2,19 +2,19 @@
 
 ## 📚 Research Topics:
 
+Matteo Lissandrini is an Associate Professor in Computer Science in the Department of Foreign Languages and Literatures at the University of Verona (Italy). His work focuses on Data Exploration, Intelligent Data Management systems, and Knowledge Graphs.
 
-Matteo is currently researching on [Example Driven Analytics of Open Knowledge Graphs](https://edao.eu/).
 
-He has been researching on [Exploratory Methods for Data Analytics](http://people.cs.aau.dk/~matteo/notes/book-example-exploration.html), 
+He has been researching on on [Example Driven Analytics of Open Knowledge Graphs](https://edao.eu/), [Exploratory Methods for Data Analytics](http://people.cs.aau.dk/~matteo/notes/book-example-exploration.html), 
 and in particular on [Exemplar Queries](http://people.cs.aau.dk/~matteo/exemplar.html).
 
-His research interests include also data mining, especially on knowledge graphs, analysis of user generated content from the social media, and advanced models for event detection and profiling.
+His research interests include also data mining, especially on knowledge graphs, and analysis of large corpora of unstructured and semi-structured data.
 
 
 **Here you will find code about:**
 
 - [Knowledge Graph Search](https://github.com/mutandon/ExemplarQueries)
-- [Graph Databases](https://github.com/kuzeko/graph-databases-testsuite)
+- [Benchmarking Graph DBMSes](https://github.com/kuzeko/graph-databases-testsuite)
 
 
 
