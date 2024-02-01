@@ -2,9 +2,6 @@
 
 ## 📚 Research Topics:
 
-Matteo Lissandrini is an Associate Professor in Computer Science in the Department of Foreign Languages and Literatures at the University of Verona (Italy). His work focuses on Data Exploration, Intelligent Data Management systems, and Knowledge Graphs.
-
-
 He has been researching on on [Example Driven Analytics of Open Knowledge Graphs](https://edao.eu/), [Exploratory Methods for Data Analytics](http://people.cs.aau.dk/~matteo/notes/book-example-exploration.html), 
 and in particular on [Exemplar Queries](http://people.cs.aau.dk/~matteo/exemplar.html).
 
