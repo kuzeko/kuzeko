@@ -17,9 +17,12 @@ His research interests include also data mining, especially on knowledge graphs,
 
 
 ## 📓 Bio:
+> Matteo Lissandrini is an Associate Professor in Computer Science in the Department of Foreign Languages and Literatures
+> at the University of Verona (Italy).
+> His work focuses on Data Exploration, Intelligent Data Management systems, and Knowledge Graphs.
        
->  Matteo Lissandrini is a Marie Sklodowska Curie IF fellow and 
->  [postdoctoral researcher in the Department of Computer Science at Aalborg University](http://people.cs.aau.dk/~matteo/).
+>  Matteo Lissandrini has been a Marie Sklodowska Curie IF fellow and 
+>  [assistant professor in the Department of Computer Science at Aalborg University](http://people.cs.aau.dk/~matteo/).
 >
 >  Matteo received his PhD  from [the University of Trento](https://www.unitn.it/) (Italy) 
 >  with a thesis on [exploratory search for information graphs](http://people.cs.aau.dk/~matteo/exemplar.html).
